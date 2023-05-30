@@ -111,7 +111,7 @@ Skills: HTML / CSS / BOOTSTRAP / Tailwind / JS / REACT / NODE.JS</div>
 
 ## GitHub streak stats
 <div align="center">
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rokib97)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samsulalamasif" align="center" />
 </div>
 
 
