@@ -109,7 +109,11 @@ Skills: HTML / CSS / BOOTSTRAP / Tailwind / JS / REACT / NODE.JS</div>
 <br/>  
 <br/>  
 
+## GitHub streak stats
+<div align="center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rokib97)
+</div>
+
 
 
 
