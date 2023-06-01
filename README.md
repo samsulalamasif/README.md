@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=1060&t=st=1685621479~exp=1685622079~hmac=617030526a468e3e1a902cb48d103b01ff7c98b4f782d84110dd5345470f5b1a" align="center" style="width: 100%
-height: 50%"  />
+height: 300px"  />
 </div>  
   
 
