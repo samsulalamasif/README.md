@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=1060&t=st=1685620585~exp=1685621185~hmac=7ae9811e18484a0e9e26235c1f979aaa050f8d15590cde624bcf5b03ac0488cf" align="center" style="width: 100%
-heigth: 30vh"  />
+<img src="https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=1060&t=st=1685621479~exp=1685622079~hmac=617030526a468e3e1a902cb48d103b01ff7c98b4f782d84110dd5345470f5b1a" align="center" style="width: 100%
+height: 50vh"  />
 </div>  
   
 
